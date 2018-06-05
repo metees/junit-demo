@@ -64,7 +64,7 @@ public class SimpleTest {
 	public void  testCase7() {
 		int i = 1 ;
 		int j = 2;
-		assert(i+j == 1);
+		assert(i+j == 3);
 	}
 	
 	
@@ -73,7 +73,7 @@ public class SimpleTest {
 	public void  testCase8() {
 		int i = 1 ;
 		int j = 2;
-		assert(i+j == 1);
+		assert(i+j == 3);
 	}
 	
 	
